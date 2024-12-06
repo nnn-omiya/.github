@@ -1,12 +1,17 @@
-## Hi there 👋
+# nnn-omiya
 
-<!--
+こんにちは! N高大宮キャンパスの非公式開発コミュニティです。
 
-**Here are some ideas to get you started:**
+## 概要
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+イノキャンと呼ばれる開発コミュニティの延長線上に存在しているチームや個人に関わらずサポートしたいという思いから生まれたコミュニティです。このコミュニティではWebや機械学習に留まらず、電子工作やネットワークまで幅広く活動しています。こうした開発活動の他にもキャンパス内のワークショップなどを通した教育活動にも取り組んでいます。
+
+## イノキャンとは？
+
+イノキャンとはIT技術を使ってキャンパスのQOLを上げたいという目的のもと、2023年の終わり頃に生まれたプログラミングのコミュニティです。
+作ったシステムとしてはwebからエアコンの操作をしてみたり、機械学習を行ってみたりしていたコミュニティです。
+
+## このorganizationsのリポジトリについて
+
+このorganizationsでは大宮キャンパスでたまに使われるコードを管理したり、動かしている場所で昔のキャンフェスのアーカイブまで残っています。
+過去ログを漁ったり、少しの歴史を見ることができるので見てみることをお勧めします。
