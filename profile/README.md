@@ -8,7 +8,8 @@
 
 ## 公式discord
 
-(https://discord.gg/v9QUeJPa4q)[discordの招待リンク]です。このサーバーに入っていただければ招待致します
+https://discord.gg/v9QUeJPa4q 
+discordの招待リンクです。このサーバーに入っていただければ招待致します
 
 ## イノキャンとは？
 
